@@ -1,0 +1,108 @@
+body{
+	background-color: black;
+	padding:0;
+	margin:0;
+}
+
+
+.top{
+	height: 9%;
+	text-align: center;
+	padding: 3%;
+	font-size: 60px;
+	background-color: #ff00ff;
+	color: #000000;
+}
+
+
+.box{
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	margin-top:30px;
+	width:33vw;
+	height:33vw;
+	border-style:solid;
+	border-width:3px;
+	float:left;
+}
+
+
+.square{
+	width:33%;
+	height:33%;
+	float:left;
+	border-style:solid;
+	border-width:0.5px;
+}
+
+
+.buttons{
+	float:left;
+	margin-top:30px;
+	width:32vw;
+	height:33vw;
+	text-align:center;
+}
+
+
+#up{
+	margin-left:42.5%;
+	margin-right:42.5%;
+	height:15%;
+	width:15%;
+	margin-top : 30%;
+}
+
+
+#down{
+	margin-left:42.5%;
+	margin-right:42.5%;
+	height:15%;
+	width:15%;
+	margin-bottom : 30%;
+}
+
+
+#left{
+	margin-left:23.5%;
+	margin-right:7.5%;
+	height:15%;
+	width:15%;
+}
+
+
+#right{
+	margin-left:7.5%;
+	margin-right:23.5%;
+	height:15%;
+	width:15%;
+}
+
+
+#rules{
+	color:white;
+	border-style:none;
+	font-size:40px;
+	text-align:center;
+}
+
+
+#score{
+	margin-top:100px;
+	font-size:150px;
+	text-align:center;
+	color:white;
+}
+
+
+#newGame{
+	float:left;
+	text-decoration:none;
+	background-color:black;
+	color:white;
+	font-size:35px;
+	border-radius:20px;
+	border-style:solid;
+	border-width:2px;
+}
